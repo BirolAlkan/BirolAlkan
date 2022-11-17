@@ -1,5 +1,5 @@
 # BirolAlkan /README.md
-### <div align="center" >:wave: I'm Ali, a full-time full-stack developer :male-technologist: </div>
+### <div align="center" >:wave: I'm Birol, a full-time full-stack developer </div>
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
 - :seedling:  I am happy to teach you what I knowand eager to learn what you will offer
 - :eyes:  I’m currently learning everything  :smile:
