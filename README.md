@@ -32,9 +32,6 @@
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
      <div align="center">
-  <a href="https://BirolAlkan.github.io/BirolAlkan/">
-  <img  src="https://github.com/BirolAlkan/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=BirolAlkan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BirolAlkan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
