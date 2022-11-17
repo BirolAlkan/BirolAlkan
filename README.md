@@ -1,34 +1,18 @@
-### Hi there 👋
-
-
-**BirolAlkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # BirolAlkan /README.md
-### <div align="center" >:wave: I'm Birol, a full-time frontend developer :male-technologist: </div>
+### <div align="center" >:wave: I'm Ali, a full-time full-stack developer :male-technologist: </div>
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | RestFul API's | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
 - :seedling:  I am happy to teach you what I knowand eager to learn what you will offer
 - :eyes:  I’m currently learning everything  :smile:
 - :revolving_hearts:️  Slowly and steadily, I'm trying to be better than yesterday:wink:
 - :dancers: I’m looking to collaborate on more open source projects.
 ## :globe_with_meridians: Socials:
-<a href="https://github.com/BirolAlkan"_blank">
+<a href="https://github.com/BirolAlkan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/birol-alkan" target="_blank">
+<a href="https://www.linkedin.com/in/birol-alkan/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+<a href="github.com/BirolAlkan" target="_blank">
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br>
@@ -49,8 +33,8 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
    <div align="center">
-  <a href="github.com/BirolAlkan">
-  <img  src="github.com/BirolAlkan/blob/main/resources/img/grid-snake.svg"
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=BirolAlkan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
