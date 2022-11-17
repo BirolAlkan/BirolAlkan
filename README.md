@@ -1,5 +1,5 @@
 # BirolAlkan /README.md
-### <div align="center" >:wave: I'm Birol, a full-time full-stack developer </div>
+### <div align="center" >:wave: I'm Birol, a full-time frontend developer </div>
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
 - :seedling:  I am happy to teach you what I knowand eager to learn what you will offer
 - :eyes:  I’m currently learning everything  :smile:
@@ -31,10 +31,9 @@
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-   <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+     <div align="center">
+  <a href="https://BirolAlkan.github.io/BirolAlkan/">
+  <img  src="https://github.com/BirolAlkan/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=BirolAlkan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
