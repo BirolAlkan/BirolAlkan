@@ -1,6 +1,6 @@
 # BirolAlkan /README.md
 ### <div align="center" >:wave: I'm Ali, a full-time full-stack developer :male-technologist: </div>
- - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | RestFul API's | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
+ - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
 - :seedling:  I am happy to teach you what I knowand eager to learn what you will offer
 - :eyes:  I’m currently learning everything  :smile:
 - :revolving_hearts:️  Slowly and steadily, I'm trying to be better than yesterday:wink:
