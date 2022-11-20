@@ -15,7 +15,7 @@
 <a href="github.com/BirolAlkan" target="_blank">
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br>
+<br><br>
 # :computer: Tech Stack:
 <br>
 <p>
